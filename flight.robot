@@ -1,6 +1,4 @@
 
-## Tiina Ylimäki
-
 *** Settings ***
 Library    SeleniumLibrary
 Library    String
